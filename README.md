@@ -1,62 +1,73 @@
-<!-- Header Banner -->
+<!-- Banner -->
+
+<h1 align="center">Hi, I’m Debasish Swarnakar (DS) 👋</h1>
+<p align="center">Strategic IT Leader | Expert in Global Infrastructure & Architect | Hybrid Cloud Services & Resource Optimization | Driving Business Agility & Modernization | Security & Compliance</p>
+
+<hr>
+
+### 👨‍💼 About Me
+
+I lead large-scale IT operations and digital workplace platforms for global teams, with a focus on reliability, security, and cost discipline. With 25+ years across architecture, operations, and IT leadership, I translate business priorities into scalable, practical technology solutions.
+
+My experience spans global infrastructure projects and operations, cloud platforms, and close collaboration with R&D, business systems, and IT groups, as well as strategic vendors and partners. I have led distributed teams, managed complex portfolios and multi-million-dollar budgets, and delivered measurable savings through modernization, consolidation, optimization, and vendor negotiations.
+
+I bring a hands-on leadership style, strong stakeholder engagement, and a bias for execution—improving service reliability, accelerating transformation, and building high-performing teams that can operate in fast-moving, high-growth environments.
+
+- Reduced physical server dependency by 70% while improving system up-time to 99.99%.
+
+- High-efficiency Tier III facility featuring N+1 power redundancy, resulting in a $2M annual reduction in OPEX.
+
+- Network replacement with SD-WAN increases bandwidth by 4x and reduces connectivity costs by 30%.
+
+- Identified and eliminated "wasteful" cloud spend, saving the organization over $500k in the first year alone.
+
+- Developed self-driven lab-based training and saved managed service costs by 40%.
+
+- Saving around $100k/ year by licensing true-up program.
+
+- 🧠 **Specialties:** Hybrid Cloud Architecture, Data Center Transformation, Resilience & Compliance  
+- ☁️ **Infrastructure, Cloud & Automation:** Transformation & Modernization, Infrastructure as Code, DevOps Toolchains, Secure Operation  
+- 🚀 **Goals:** Promote best practices, mentorship, community learning  
+
+---
+
+### 🛠 Tech & Tools I Use
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Infrastructure%20Architect-1E90FF?style=for-the-badge&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Specialist-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GRC%20Learner-FF8C00?style=for-the-badge&logo=security&logoColor=white" />
+  <!-- Example badges, replace/add your actual tools -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Terraform-793B86?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Debasish Swarnakar (DS) </h1>
+---
+
+### 💼 What I’m Working On
+
+- 📌 **Infrastructure Automation Toolkit** — Scripts & workflows to accelerate hybrid cloud deployment  
+- ☁️ **Cloud Migration Playbooks** — Templates for lift-and-shift and replatforming paths  
+- 📊 **Operational Dashboards** — Monitoring solutions for reliability and compliance tracking  
+
+---
+
+
+### 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Pune,%20India-ffb400?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-25%2B%20Years-success?style=flat-square&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Azure%20Infra%20%7C%20GRC-blueviolet?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <a href="https://www.linkedin.com/in/devswarnakar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-devswarnakar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### ⚡ Fun Fact
 
-Senior **IT Infrastructure leader** with 25+ years across data centers, multi‑cloud (Azure/AWS/OCI), ServiceNow CMDB, security, and governance – currently working on Azure infrastructure design for large‑scale enterprise environments.
-
-- 🔭 **Current work**: Azure landing zones, hybrid connectivity, security baselines, backup and DR with Cohesity
-- 🌱 **I’m currently learning**: GRC (ISO 27001, NIST, ITIL) and Responsible / AI governance
-- 👯 **I’m looking to collaborate on**:  
-  - Azure infrastructure as code (Terraform)  
-  - ServiceNow CMDB data quality and automation  
-  - Data center optimization and cloud migration playbooks
-- 🤝 **I’m looking for help with**: Scaling GRC and security controls across hybrid and multi‑cloud environments
-- 💬 **Ask me about**: Azure infra design, data center ops, SecOps reviews, IT leadership paths (Architect → Director → CISO)
-- 📫 **How to reach me**:  
-  - Email: `devswarnakar@gmail.com`  
-  - LinkedIn: `https://www.linkedin.com/in/devswarnakar/`
-- 😄 **Pronouns**: He / Him  
-- ⚡ **Fun fact**: Started as a System Engineer in Kolkata – now designing resilient cloud infra for global environments.
-
----
-
-## 🧰 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-00A4EF?style=for-the-badge&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cohesity-38B449?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42F6?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
-
-
----
-
-## 🌐 Highlight: Azure Infrastructure Design
-
-> Designing secure, scalable Azure infrastructure for enterprise workloads – with a focus on governance, resilience, and cost optimisation.
-
-- 🔹 Hub‑and‑spoke and landing zone patterns  
-- 🔹 Network security (NSGs, Azure Firewall, WAF, Private Endpoints)  
-- 🔹 Backup, DR and resilience with Cohesity and Azure services  
-- 🔹 Policy‑driven governance and tagging strategies  
+I love simplifying complexity and turning legacy weight into operational muscle — both in tech and real life.
 
